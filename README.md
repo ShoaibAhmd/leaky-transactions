@@ -1,5 +1,5 @@
 # Steps to setup the server
-1. Run npm install
+1. Run `npm install`
 2. Run create-students.sql in your mysql server
 3. Run `npm run start:dev`
 
